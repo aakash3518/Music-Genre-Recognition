@@ -1,6 +1,6 @@
 # Project2 - CAP6610
 
-Download the Non-Prog and Prog Training sets available on dropbox. Implement a prog-rock vs. the world
+Music Genre Binary Classifier implemented using Transformer models. Download the Non-Prog and Prog Training sets available on dropbox. Implement a prog-rock vs. the world
 classifier on the training set. Document the mis-classification errors. This is a group project for Machine Learning Course.
 
 ## Table of Contents
